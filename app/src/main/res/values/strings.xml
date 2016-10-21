@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SuitReader</string>
+    <string name="text_welcome">Welcome in my app</string>
+</resources>
